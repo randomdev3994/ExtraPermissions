@@ -1,0 +1,24 @@
+{
+  "name": "cordova-extra-permissions",
+  "version": "0.0.1",
+  "description": "Just to add extra permissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randomdev3994/ExtraPermissions.git"
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "author": "Dev",
+  "bugs": {
+    "url": "https://github.com/randomdev3994/ExtraPermissions/issues"
+  },
+  "homepage": "https://github.com/randomdev3994/ExtraPermissions#readme",
+  "devDependencies": {
+    "pluginpub": "0.0.8"
+  }
+}

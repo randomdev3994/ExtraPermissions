@@ -1,0 +1,1 @@
+Just a small plugin to add some permissions to the manifest.
